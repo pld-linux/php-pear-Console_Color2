@@ -1,6 +1,5 @@
 %define		status		alpha
 %define		pearname	Console_Color2
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - This Class allows you to easily use ANSI console colors in your application
 Name:		php-pear-Console_Color2
 Version:	0.1.2
